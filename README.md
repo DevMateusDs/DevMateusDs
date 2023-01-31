@@ -2,7 +2,7 @@
 
 ### Minhas redes sociais:
 [![G-mail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souzamateus18@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateus_souzass)
+[![Linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-souza-469b5b23a/)
 <hr>
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMateusDs&show_icons=true&theme=highcontrast)
