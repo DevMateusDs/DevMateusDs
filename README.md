@@ -1,5 +1,5 @@
 ># Olá, me chamo Mateus Souza 🤝
->### Contatos:
+> - ### Contatos:
 >[![G-mail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souzamateus18@gmail.com)
 >[![Linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-souza-469b5b23a/)
 
