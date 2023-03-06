@@ -5,7 +5,7 @@
 
 <br>
 
->![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMateusDs&show_icons=true&theme=highcontrast)
+> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMateusDs&layout=compact&langs_count=7&theme=dark)
 
 <br>
 
